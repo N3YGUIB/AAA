@@ -22,3 +22,70 @@ Il collecte des informations essentielles sur la machine et génère un **rappor
 
 ```bash
 pip install psutil jinja2 distro
+```
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/N3YGUIB/AAA
+cd AAA/
+```
+
+Commandes pour installer les dépendances:
+
+```bash
+pip install psutil jinja2 distro
+```
+---
+
+## Utilisation
+
+```bash
+python monitor.py
+```
+Ouvrir index.html dans le navigateur
+
+Après exécution, un fichier index.html sera généré à la racine du projet.
+Ouvrez-le dans un navigateur pour visualiser le dashboard complet.
+
+---
+
+## Fonctionnalités
+
+- Affichage des informations système (nom, OS, uptime, utilisateurs)
+- Récupération de l’adresse IP locale
+- Informations CPU : cœurs, fréquence, pourcentage d’utilisation
+- Informations RAM : totale, utilisée, pourcentage
+- Top 3 des processus CPU et RAM
+- Analyse des fichiers utilisateur par extension (.txt, .py, .pdf, .jpg, .html, .css)
+
+Génération d’un dashboard HTML avec mise en forme CSS
+
+---
+
+## Captures d'écran
+
+  
+
+## Difficultés rencontrées
+
+- Les calculs précis de l’uptime en jours, heures, minutes et secondes
+- Le Tri des processus selon l’utilisation CPU et RAM
+- Collecter l'adresse IP
+- Le Nombre d'utilisateur connecté
+
+---
+
+## Améliorations possibles
+
+- Ajouter un graphique dynamique pour l’utilisation CPU et RAM
+- Afficher l'interface en temps réel
+- Ajouter un export PDF du dashboard
+
+---
+
+## Auteur 
+
+### Neyguib & Mohray
