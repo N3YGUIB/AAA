@@ -17,11 +17,12 @@ Il collecte des informations essentielles sur la machine et génère un **rappor
 
 ## Prérequis
 
-- Python 3.7 ou supérieur  
+- Python 3.7 ou supérieur
+ 
 - Modules Python :
-  -psutil
-  -jinja2
-  -distro
+-psutil
+-jinja2
+-distro
 
 ---
 
