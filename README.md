@@ -78,7 +78,7 @@ Génération d’un dashboard HTML avec mise en forme CSS
 
 ---
 
-## Améliorations possibles
+## Améliorations possible
 
 - Ajouter un graphique dynamique pour l’utilisation CPU et RAM
 - Afficher l'interface en temps réel
