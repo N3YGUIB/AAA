@@ -20,9 +20,7 @@ Il collecte des informations essentielles sur la machine et génère un **rappor
 - Python 3.7 ou supérieur
  
 - Modules Python :
--psutil
--jinja2
--distro
+  #### Psutil, Jinja2, Distro
 
 ---
 
