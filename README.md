@@ -19,10 +19,9 @@ Il collecte des informations essentielles sur la machine et génère un **rappor
 
 - Python 3.7 ou supérieur  
 - Modules Python :
-
-```bash
-pip install psutil jinja2 distro
-```
+  -psutil
+  -jinja2
+  -distro
 
 ---
 
@@ -33,7 +32,7 @@ git clone https://github.com/N3YGUIB/AAA
 cd AAA/
 ```
 
-Commandes pour installer les dépendances:
+Commandes pour installer les modules python:
 
 ```bash
 pip install psutil jinja2 distro
