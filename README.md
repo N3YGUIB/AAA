@@ -65,7 +65,8 @@ Génération d’un dashboard HTML avec mise en forme CSS
 
 ## Captures d'écran
 
-  
+<img width="1901" height="893" alt="Monitor" src="https://github.com/user-attachments/assets/5e424c0e-7764-4aef-9f6f-27d4b1b28759" />
+
 
 ## Difficultés rencontrées
 
